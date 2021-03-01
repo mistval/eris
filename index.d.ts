@@ -2570,7 +2570,6 @@ declare namespace Eris {
     discriminator: string;
     id: string;
     mention: string;
-    publicFlags?: number;
     staticAvatarURL: string;
     system: boolean;
     username: string;
