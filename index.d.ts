@@ -2203,7 +2203,6 @@ declare namespace Eris {
     /** @deprecated */
     permission: Permission;
     permissions: Permission;
-    premiumSince: number;
     roles: string[];
     staticAvatarURL: string;
     status?: Status;
